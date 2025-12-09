@@ -16,9 +16,9 @@ patchesStrategicMerge:
 - patches/backend-deployment.yaml
 
 images:
-- name: openlabfree/globomantics-be:v7
-  newName: ghcr.io/cloud-native-nepal/globomantics-hotel-backend
-  newTag: c4452ada299aaabe0ac07dda4f830072da9d9588
-- name: openlabfree/globomantics-fe:v4
-  newName: ghcr.io/cloud-native-nepal/globomantics-hotel-frontend
-  newTag: c4452ada299aaabe0ac07dda4f830072da9d9588
+- name: excelsior-3868/globomantics-be:v7
+  newName: ghcr.io/excelsior-3868/globomantics-hotel-backend
+  newTag: 98f6cfd5f4a0850d238ced82de6f805cb0c57d26
+- name: excelsior-3868/globomantics-fe:v4
+  newName: ghcr.io/excelsior-3868/globomantics-hotel-frontend
+  newTag: 98f6cfd5f4a0850d238ced82de6f805cb0c57d26
