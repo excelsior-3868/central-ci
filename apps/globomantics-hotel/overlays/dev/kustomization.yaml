@@ -18,9 +18,7 @@ patchesStrategicMerge:
 images:
 - name: excelsior-3868/globomantics-be:v7
   newName: ghcr.io/excelsior-3868/globomantics-hotel-backend
-  newTag: 98f6cfd5f4a0850d238ced82de6f805cb0c57d26
+  newTag: b20d76675b2a00e149036d0d7d627f490a9fe5e9
 - name: excelsior-3868/globomantics-fe:v4
   newName: ghcr.io/excelsior-3868/globomantics-hotel-frontend
-  newTag: 98f6cfd5f4a0850d238ced82de6f805cb0c57d26
-
-
+  newTag: b20d76675b2a00e149036d0d7d627f490a9fe5e9
