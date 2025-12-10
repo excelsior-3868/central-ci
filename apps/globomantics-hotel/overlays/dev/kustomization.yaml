@@ -22,9 +22,5 @@ images:
 - name: excelsior-3868/globomantics-fe:v4
   newName: ghcr.io/excelsior-3868/globomantics-hotel-frontend
   newTag: 98f6cfd5f4a0850d238ced82de6f805cb0c57d26
-- name: openlabfree/globomantics-be:v7
-  newName: ghcr.io/excelsior-3868/globomantics-hotel-backend
-  newTag: 9dcbb3cc52dc277909fa6cd33b9e663a44e4fb34
-- name: openlabfree/globomantics-fe:v4
-  newName: ghcr.io/excelsior-3868/globomantics-hotel-frontend
-  newTag: 9dcbb3cc52dc277909fa6cd33b9e663a44e4fb34
+
+
